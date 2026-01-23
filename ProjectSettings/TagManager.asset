@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -41,8 +42,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 4196495261
+    locked: 0
+  - name: entities
+    uniqueID: 155642667
+    locked: 0
+  - name: Tree
+    uniqueID: 3352072591
+    locked: 0
+  - name: House
+    uniqueID: 1150243671
+    locked: 0
   - name: Player
     uniqueID: 2571510669
+    locked: 0
+  - name: Name_NPC
+    uniqueID: 1694598275
     locked: 0
   m_RenderingLayers:
   - Default
