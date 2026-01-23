@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2571510669
+    locked: 0
+  - name: Name_NPC
+    uniqueID: 1694598275
     locked: 0
   m_RenderingLayers:
   - Default
