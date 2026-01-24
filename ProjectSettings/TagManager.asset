@@ -54,11 +54,17 @@ TagManager:
   - name: House
     uniqueID: 1150243671
     locked: 0
+  - name: NPC
+    uniqueID: 969170001
+    locked: 0
   - name: Player
     uniqueID: 2571510669
     locked: 0
   - name: Name_NPC
     uniqueID: 1694598275
+    locked: 0
+  - name: Message
+    uniqueID: 4071159479
     locked: 0
   m_RenderingLayers:
   - Default
