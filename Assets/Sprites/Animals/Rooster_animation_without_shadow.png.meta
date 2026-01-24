@@ -1,127 +1,151 @@
 fileFormatVersion: 2
-guid: ad1dbd361f453ad4face85c4a1f2f674
+guid: 53ad5411aaebb2b4ab782cec06f4ffa0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6312391454905999596
-    second: Piglet_animation_without_shadow_0
+      213: -3832042778752577746
+    second: Rooster_animation_without_shadow_0
   - first:
-      213: -1224479203660049560
-    second: Piglet_animation_without_shadow_1
+      213: 5136773267712241606
+    second: Rooster_animation_without_shadow_1
   - first:
-      213: 8377334596112457610
-    second: Piglet_animation_without_shadow_2
+      213: -5403132847112255131
+    second: Rooster_animation_without_shadow_2
   - first:
-      213: -2554338191877502242
-    second: Piglet_animation_without_shadow_3
+      213: 4650071439488011016
+    second: Rooster_animation_without_shadow_3
   - first:
-      213: 5171852659507747112
-    second: Piglet_animation_without_shadow_4
+      213: 1442976994021132242
+    second: Rooster_animation_without_shadow_4
   - first:
-      213: 5013060125019280879
-    second: Piglet_animation_without_shadow_5
+      213: 6348981681306743172
+    second: Rooster_animation_without_shadow_5
   - first:
-      213: -2291823081063960926
-    second: Piglet_animation_without_shadow_6
+      213: 6001673290513516517
+    second: Rooster_animation_without_shadow_6
   - first:
-      213: -6047639867531692225
-    second: Piglet_animation_without_shadow_7
+      213: 5142966472398418658
+    second: Rooster_animation_without_shadow_7
   - first:
-      213: 2590226730702277632
-    second: Piglet_animation_without_shadow_8
+      213: -73857084521542020
+    second: Rooster_animation_without_shadow_8
   - first:
-      213: -6851024291033255674
-    second: Piglet_animation_without_shadow_9
+      213: 2668110862196208093
+    second: Rooster_animation_without_shadow_9
   - first:
-      213: 8191018410002682594
-    second: Piglet_animation_without_shadow_10
+      213: -90143279464656995
+    second: Rooster_animation_without_shadow_10
   - first:
-      213: -1109975187393006355
-    second: Piglet_animation_without_shadow_11
+      213: -7532774817791449497
+    second: Rooster_animation_without_shadow_11
   - first:
-      213: -201655384291081856
-    second: Piglet_animation_without_shadow_12
+      213: -4070152069466856741
+    second: Rooster_animation_without_shadow_12
   - first:
-      213: -7079314639331323101
-    second: Piglet_animation_without_shadow_13
+      213: -6644026587584005927
+    second: Rooster_animation_without_shadow_13
   - first:
-      213: 3336644501572127698
-    second: Piglet_animation_without_shadow_14
+      213: 1030349969042474452
+    second: Rooster_animation_without_shadow_14
   - first:
-      213: 3401843586780505174
-    second: Piglet_animation_without_shadow_15
+      213: 8704195926523258524
+    second: Rooster_animation_without_shadow_15
   - first:
-      213: -561772988509457386
-    second: Piglet_animation_without_shadow_16
+      213: -4892950680728282525
+    second: Rooster_animation_without_shadow_16
   - first:
-      213: 3100539926458234619
-    second: Piglet_animation_without_shadow_17
+      213: -1379515237782135179
+    second: Rooster_animation_without_shadow_17
   - first:
-      213: 4177217823508017405
-    second: Piglet_animation_without_shadow_18
+      213: -462517846978200378
+    second: Rooster_animation_without_shadow_18
   - first:
-      213: 1489783094319321437
-    second: Piglet_animation_without_shadow_19
+      213: 3706655151698753309
+    second: Rooster_animation_without_shadow_19
   - first:
-      213: -4819295431761900558
-    second: Piglet_animation_without_shadow_20
+      213: 3281453273712040209
+    second: Rooster_animation_without_shadow_20
   - first:
-      213: 8337241936334521883
-    second: Piglet_animation_without_shadow_21
+      213: 1708105246865626420
+    second: Rooster_animation_without_shadow_21
   - first:
-      213: -4409016298924077289
-    second: Piglet_animation_without_shadow_22
+      213: 3065872456488379743
+    second: Rooster_animation_without_shadow_22
   - first:
-      213: -630364717790900965
-    second: Piglet_animation_without_shadow_23
+      213: -7257932408892351080
+    second: Rooster_animation_without_shadow_23
   - first:
-      213: -8252270638207846445
-    second: Piglet_animation_without_shadow_24
+      213: -842923851438375057
+    second: Rooster_animation_without_shadow_24
   - first:
-      213: 8064715618546589167
-    second: Piglet_animation_without_shadow_25
+      213: 4635962246359560919
+    second: Rooster_animation_without_shadow_25
   - first:
-      213: 4653225238251864992
-    second: Piglet_animation_without_shadow_26
+      213: 6005812500225921671
+    second: Rooster_animation_without_shadow_26
   - first:
-      213: -4334077077883010266
-    second: Piglet_animation_without_shadow_27
+      213: 1554791359391353718
+    second: Rooster_animation_without_shadow_27
   - first:
-      213: -3153523005190417104
-    second: Piglet_animation_without_shadow_28
+      213: -6889375567226069227
+    second: Rooster_animation_without_shadow_28
   - first:
-      213: -3452097359254712451
-    second: Piglet_animation_without_shadow_29
+      213: 4927122654307241596
+    second: Rooster_animation_without_shadow_29
   - first:
-      213: 1322670029295400238
-    second: Piglet_animation_without_shadow_30
+      213: 9117176429535880857
+    second: Rooster_animation_without_shadow_30
   - first:
-      213: -3743337705192087543
-    second: Piglet_animation_without_shadow_31
+      213: 3414449766789490371
+    second: Rooster_animation_without_shadow_31
   - first:
-      213: 1811828055987582682
-    second: Piglet_animation_without_shadow_32
+      213: -8036803184143953687
+    second: Rooster_animation_without_shadow_32
   - first:
-      213: -5086119231499450665
-    second: Piglet_animation_without_shadow_33
+      213: -6205649333734296064
+    second: Rooster_animation_without_shadow_33
   - first:
-      213: 1718104133912464924
-    second: Piglet_animation_without_shadow_34
+      213: 3547619307202110280
+    second: Rooster_animation_without_shadow_34
   - first:
-      213: -2047524762743136215
-    second: Piglet_animation_without_shadow_35
+      213: -3851408919021085729
+    second: Rooster_animation_without_shadow_35
   - first:
-      213: 6377231652868487264
-    second: Piglet_animation_without_shadow_36
+      213: -7103308382935034210
+    second: Rooster_animation_without_shadow_36
   - first:
-      213: 413540620921081300
-    second: Piglet_animation_without_shadow_37
+      213: -2332379626556894463
+    second: Rooster_animation_without_shadow_37
   - first:
-      213: -521931159260259680
-    second: Piglet_animation_without_shadow_38
+      213: -803746951547139990
+    second: Rooster_animation_without_shadow_38
   - first:
-      213: 3056366367189048157
-    second: Piglet_animation_without_shadow_39
+      213: -7077347050543517085
+    second: Rooster_animation_without_shadow_39
+  - first:
+      213: 2311676948859437925
+    second: Rooster_animation_without_shadow_40
+  - first:
+      213: -5539452277239478058
+    second: Rooster_animation_without_shadow_41
+  - first:
+      213: 2860463978637666631
+    second: Rooster_animation_without_shadow_42
+  - first:
+      213: -7924683762322718784
+    second: Rooster_animation_without_shadow_43
+  - first:
+      213: -8897352719155941915
+    second: Rooster_animation_without_shadow_44
+  - first:
+      213: 901064287583494376
+    second: Rooster_animation_without_shadow_45
+  - first:
+      213: -356248394711884932
+    second: Rooster_animation_without_shadow_46
+  - first:
+      213: -3407469224017980027
+    second: Rooster_animation_without_shadow_47
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -213,11 +237,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_0
+      name: Rooster_animation_without_shadow_0
       rect:
         serializedVersion: 2
         x: 0
@@ -232,14 +269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce022e0759e1a9750800000000000000
-      internalID: 6312391454905999596
+      spriteID: e2f0a505569d1dac0800000000000000
+      internalID: -3832042778752577746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_1
+      name: Rooster_animation_without_shadow_1
       rect:
         serializedVersion: 2
         x: 32
@@ -254,14 +291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8635dfed6a6c10fe0800000000000000
-      internalID: -1224479203660049560
+      spriteID: 6cfe5b9321c794740800000000000000
+      internalID: 5136773267712241606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_2
+      name: Rooster_animation_without_shadow_2
       rect:
         serializedVersion: 2
         x: 64
@@ -276,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8f9fdd1e65424470800000000000000
-      internalID: 8377334596112457610
+      spriteID: 56901a57d473405b0800000000000000
+      internalID: -5403132847112255131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_3
+      name: Rooster_animation_without_shadow_3
       rect:
         serializedVersion: 2
         x: 96
@@ -298,14 +335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eda8deca2fa2d8cd0800000000000000
-      internalID: -2554338191877502242
+      spriteID: 80b4fda465f588040800000000000000
+      internalID: 4650071439488011016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_4
+      name: Rooster_animation_without_shadow_4
       rect:
         serializedVersion: 2
         x: 128
@@ -320,14 +357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8295e98979c16c740800000000000000
-      internalID: 5171852659507747112
+      spriteID: 2d7c0bb4eeb760410800000000000000
+      internalID: 1442976994021132242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_5
+      name: Rooster_animation_without_shadow_5
       rect:
         serializedVersion: 2
         x: 160
@@ -342,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe513759f97f19540800000000000000
-      internalID: 5013060125019280879
+      spriteID: 48130c7633d1c1850800000000000000
+      internalID: 6348981681306743172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_6
+      name: Rooster_animation_without_shadow_6
       rect:
         serializedVersion: 2
         x: 0
@@ -364,14 +401,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ae2425ec0fc130e0800000000000000
-      internalID: -2291823081063960926
+      spriteID: 5e7020b3f0a3a4350800000000000000
+      internalID: 6001673290513516517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_7
+      name: Rooster_animation_without_shadow_7
       rect:
         serializedVersion: 2
         x: 32
@@ -386,14 +423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f37784e0597721ca0800000000000000
-      internalID: -6047639867531692225
+      spriteID: 2e23d0f02cc7f5740800000000000000
+      internalID: 5142966472398418658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_8
+      name: Rooster_animation_without_shadow_8
       rect:
         serializedVersion: 2
         x: 64
@@ -408,14 +445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00c0b3bec7552f320800000000000000
-      internalID: 2590226730702277632
+      spriteID: c7e82f87f5b99fef0800000000000000
+      internalID: -73857084521542020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_9
+      name: Rooster_animation_without_shadow_9
       rect:
         serializedVersion: 2
         x: 96
@@ -430,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 601f361a4b54ce0a0800000000000000
-      internalID: -6851024291033255674
+      spriteID: dd1f09261b8070520800000000000000
+      internalID: 2668110862196208093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_10
+      name: Rooster_animation_without_shadow_10
       rect:
         serializedVersion: 2
         x: 128
@@ -452,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e215e498d75ca170800000000000000
-      internalID: 8191018410002682594
+      spriteID: d9fce983a2fbfbef0800000000000000
+      internalID: -90143279464656995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_11
+      name: Rooster_animation_without_shadow_11
       rect:
         serializedVersion: 2
         x: 160
@@ -474,14 +511,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de431fda2739890f0800000000000000
-      internalID: -1109975187393006355
+      spriteID: 766688ca635367790800000000000000
+      internalID: -7532774817791449497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_12
+      name: Rooster_animation_without_shadow_12
       rect:
         serializedVersion: 2
         x: 0
@@ -496,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08109441f73933df0800000000000000
-      internalID: -201655384291081856
+      spriteID: bd26b95e14ae387c0800000000000000
+      internalID: -4070152069466856741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_13
+      name: Rooster_animation_without_shadow_13
       rect:
         serializedVersion: 2
         x: 32
@@ -518,14 +555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3231f65e7d831cd90800000000000000
-      internalID: -7079314639331323101
+      spriteID: 9d8fdc8250dabc3a0800000000000000
+      internalID: -6644026587584005927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_14
+      name: Rooster_animation_without_shadow_14
       rect:
         serializedVersion: 2
         x: 64
@@ -540,14 +577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2db87f1fe742e4e20800000000000000
-      internalID: 3336644501572127698
+      spriteID: 4d58c1b76d98c4e00800000000000000
+      internalID: 1030349969042474452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_15
+      name: Rooster_animation_without_shadow_15
       rect:
         serializedVersion: 2
         x: 96
@@ -562,14 +599,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6542e7be7b6c53f20800000000000000
-      internalID: 3401843586780505174
+      spriteID: c9622df04148bc870800000000000000
+      internalID: 8704195926523258524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_16
+      name: Rooster_animation_without_shadow_16
       rect:
         serializedVersion: 2
         x: 128
@@ -584,14 +621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 614fb7f717e2438f0800000000000000
-      internalID: -561772988509457386
+      spriteID: 36a5fa3a74fb81cb0800000000000000
+      internalID: -4892950680728282525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_17
+      name: Rooster_animation_without_shadow_17
       rect:
         serializedVersion: 2
         x: 160
@@ -606,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf67570c2a4570b20800000000000000
-      internalID: 3100539926458234619
+      spriteID: 57ed1c1433afadce0800000000000000
+      internalID: -1379515237782135179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_18
+      name: Rooster_animation_without_shadow_18
       rect:
         serializedVersion: 2
         x: 0
@@ -628,14 +665,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df030a78a7578f930800000000000000
-      internalID: 4177217823508017405
+      spriteID: 6ccf59cf77ec499f0800000000000000
+      internalID: -462517846978200378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_19
+      name: Rooster_animation_without_shadow_19
       rect:
         serializedVersion: 2
         x: 32
@@ -650,14 +687,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d511941c4d5cca410800000000000000
-      internalID: 1489783094319321437
+      spriteID: d1730e5c83fa07330800000000000000
+      internalID: 3706655151698753309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_20
+      name: Rooster_animation_without_shadow_20
       rect:
         serializedVersion: 2
         x: 64
@@ -672,14 +709,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2fb4b2aa65c6e1db0800000000000000
-      internalID: -4819295431761900558
+      spriteID: 11916a6dd501a8d20800000000000000
+      internalID: 3281453273712040209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_21
+      name: Rooster_animation_without_shadow_21
       rect:
         serializedVersion: 2
         x: 96
@@ -694,14 +731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1685b55e55d3b370800000000000000
-      internalID: 8337241936334521883
+      spriteID: 435186e0ca864b710800000000000000
+      internalID: 1708105246865626420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_22
+      name: Rooster_animation_without_shadow_22
       rect:
         serializedVersion: 2
         x: 128
@@ -716,14 +753,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71f09bd390700d2c0800000000000000
-      internalID: -4409016298924077289
+      spriteID: f55e4a761ca2c8a20800000000000000
+      internalID: 3065872456488379743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_23
+      name: Rooster_animation_without_shadow_23
       rect:
         serializedVersion: 2
         x: 160
@@ -738,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1d422501ae7047f0800000000000000
-      internalID: -630364717790900965
+      spriteID: 89d1d24ade4a64b90800000000000000
+      internalID: -7257932408892351080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_24
+      name: Rooster_animation_without_shadow_24
       rect:
         serializedVersion: 2
         x: 0
@@ -760,14 +797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d73c33b39b0a7d80800000000000000
-      internalID: -8252270638207846445
+      spriteID: f6fbf4e19355d44f0800000000000000
+      internalID: -842923851438375057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_25
+      name: Rooster_animation_without_shadow_25
       rect:
         serializedVersion: 2
         x: 32
@@ -782,14 +819,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fed930a5020abef60800000000000000
-      internalID: 8064715618546589167
+      spriteID: 7d23266c91f365040800000000000000
+      internalID: 4635962246359560919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_26
+      name: Rooster_animation_without_shadow_26
       rect:
         serializedVersion: 2
         x: 64
@@ -804,14 +841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a382e943b3939040800000000000000
-      internalID: 4653225238251864992
+      spriteID: 782119716aee85350800000000000000
+      internalID: 6005812500225921671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_27
+      name: Rooster_animation_without_shadow_27
       rect:
         serializedVersion: 2
         x: 96
@@ -826,14 +863,58 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 623ce9f4cd34ad3c0800000000000000
-      internalID: -4334077077883010266
+      spriteID: 67b4e54f08ab39510800000000000000
+      internalID: 1554791359391353718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_28
+      name: Rooster_animation_without_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f1c3f4c650460a0800000000000000
+      internalID: -6889375567226069227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_animation_without_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e43c6f2f7a06440800000000000000
+      internalID: 4927122654307241596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_animation_without_shadow_30
       rect:
         serializedVersion: 2
         x: 0
@@ -848,14 +929,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0355a9ce88f6c34d0800000000000000
-      internalID: -3153523005190417104
+      spriteID: 996ec0568a7b68e70800000000000000
+      internalID: 9117176429535880857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_29
+      name: Rooster_animation_without_shadow_31
       rect:
         serializedVersion: 2
         x: 32
@@ -870,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7f0f83edbfa710d0800000000000000
-      internalID: -3452097359254712451
+      spriteID: 3c627ece8ff826f20800000000000000
+      internalID: 3414449766789490371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_30
+      name: Rooster_animation_without_shadow_32
       rect:
         serializedVersion: 2
         x: 64
@@ -892,14 +973,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e25353342611b5210800000000000000
-      internalID: 1322670029295400238
+      spriteID: 9e01f57b51a877090800000000000000
+      internalID: -8036803184143953687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_31
+      name: Rooster_animation_without_shadow_33
       rect:
         serializedVersion: 2
         x: 96
@@ -914,14 +995,58 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90023bfa03efc0cc0800000000000000
-      internalID: -3743337705192087543
+      spriteID: 006b0265fca11e9a0800000000000000
+      internalID: -6205649333734296064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_32
+      name: Rooster_animation_without_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843691cb6fcab3130800000000000000
+      internalID: 3547619307202110280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_animation_without_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 58
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb1af86efb0d8ac0800000000000000
+      internalID: -3851408919021085729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_animation_without_shadow_36
       rect:
         serializedVersion: 2
         x: 0
@@ -936,14 +1061,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad6f9377408e42910800000000000000
-      internalID: 1811828055987582682
+      spriteID: e965a1129aafb6d90800000000000000
+      internalID: -7103308382935034210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_33
+      name: Rooster_animation_without_shadow_37
       rect:
         serializedVersion: 2
         x: 32
@@ -958,14 +1083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d64131a1897a69b0800000000000000
-      internalID: -5086119231499450665
+      spriteID: 103d7bd4619b1afd0800000000000000
+      internalID: -2332379626556894463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_34
+      name: Rooster_animation_without_shadow_38
       rect:
         serializedVersion: 2
         x: 64
@@ -980,14 +1105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1e8bfc5b9ee7d710800000000000000
-      internalID: 1718104133912464924
+      spriteID: a68cabfe76488d4f0800000000000000
+      internalID: -803746951547139990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piglet_animation_without_shadow_35
+      name: Rooster_animation_without_shadow_39
       rect:
         serializedVersion: 2
         x: 96
@@ -1002,8 +1127,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92021e7931bb593e0800000000000000
-      internalID: -2047524762743136215
+      spriteID: 362f13cda5638cd90800000000000000
+      internalID: -7077347050543517085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_animation_without_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 25
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c93cefe9b41020800000000000000
+      internalID: 2311676948859437925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rooster_animation_without_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 25
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d889ecc089ef13b0800000000000000
+      internalID: -5539452277239478058
       vertices: []
       indices: 
       edges: []
@@ -1012,7 +1181,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: def6938bba2c7954aab43717e196c0de
+    spriteID: 081a70e2660cc4e4b8f01a3b172b373e
     internalID: 0
     vertices: []
     indices: 
@@ -1022,42 +1191,48 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Piglet_animation_without_shadow_0: 6312391454905999596
-      Piglet_animation_without_shadow_1: -1224479203660049560
-      Piglet_animation_without_shadow_10: 8191018410002682594
-      Piglet_animation_without_shadow_11: -1109975187393006355
-      Piglet_animation_without_shadow_12: -201655384291081856
-      Piglet_animation_without_shadow_13: -7079314639331323101
-      Piglet_animation_without_shadow_14: 3336644501572127698
-      Piglet_animation_without_shadow_15: 3401843586780505174
-      Piglet_animation_without_shadow_16: -561772988509457386
-      Piglet_animation_without_shadow_17: 3100539926458234619
-      Piglet_animation_without_shadow_18: 4177217823508017405
-      Piglet_animation_without_shadow_19: 1489783094319321437
-      Piglet_animation_without_shadow_2: 8377334596112457610
-      Piglet_animation_without_shadow_20: -4819295431761900558
-      Piglet_animation_without_shadow_21: 8337241936334521883
-      Piglet_animation_without_shadow_22: -4409016298924077289
-      Piglet_animation_without_shadow_23: -630364717790900965
-      Piglet_animation_without_shadow_24: -8252270638207846445
-      Piglet_animation_without_shadow_25: 8064715618546589167
-      Piglet_animation_without_shadow_26: 4653225238251864992
-      Piglet_animation_without_shadow_27: -4334077077883010266
-      Piglet_animation_without_shadow_28: -3153523005190417104
-      Piglet_animation_without_shadow_29: -3452097359254712451
-      Piglet_animation_without_shadow_3: -2554338191877502242
-      Piglet_animation_without_shadow_30: 1322670029295400238
-      Piglet_animation_without_shadow_31: -3743337705192087543
-      Piglet_animation_without_shadow_32: 1811828055987582682
-      Piglet_animation_without_shadow_33: -5086119231499450665
-      Piglet_animation_without_shadow_34: 1718104133912464924
-      Piglet_animation_without_shadow_35: -2047524762743136215
-      Piglet_animation_without_shadow_4: 5171852659507747112
-      Piglet_animation_without_shadow_5: 5013060125019280879
-      Piglet_animation_without_shadow_6: -2291823081063960926
-      Piglet_animation_without_shadow_7: -6047639867531692225
-      Piglet_animation_without_shadow_8: 2590226730702277632
-      Piglet_animation_without_shadow_9: -6851024291033255674
+      Rooster_animation_without_shadow_0: -3832042778752577746
+      Rooster_animation_without_shadow_1: 5136773267712241606
+      Rooster_animation_without_shadow_10: -90143279464656995
+      Rooster_animation_without_shadow_11: -7532774817791449497
+      Rooster_animation_without_shadow_12: -4070152069466856741
+      Rooster_animation_without_shadow_13: -6644026587584005927
+      Rooster_animation_without_shadow_14: 1030349969042474452
+      Rooster_animation_without_shadow_15: 8704195926523258524
+      Rooster_animation_without_shadow_16: -4892950680728282525
+      Rooster_animation_without_shadow_17: -1379515237782135179
+      Rooster_animation_without_shadow_18: -462517846978200378
+      Rooster_animation_without_shadow_19: 3706655151698753309
+      Rooster_animation_without_shadow_2: -5403132847112255131
+      Rooster_animation_without_shadow_20: 3281453273712040209
+      Rooster_animation_without_shadow_21: 1708105246865626420
+      Rooster_animation_without_shadow_22: 3065872456488379743
+      Rooster_animation_without_shadow_23: -7257932408892351080
+      Rooster_animation_without_shadow_24: -842923851438375057
+      Rooster_animation_without_shadow_25: 4635962246359560919
+      Rooster_animation_without_shadow_26: 6005812500225921671
+      Rooster_animation_without_shadow_27: 1554791359391353718
+      Rooster_animation_without_shadow_28: -6889375567226069227
+      Rooster_animation_without_shadow_29: 4927122654307241596
+      Rooster_animation_without_shadow_3: 4650071439488011016
+      Rooster_animation_without_shadow_30: 9117176429535880857
+      Rooster_animation_without_shadow_31: 3414449766789490371
+      Rooster_animation_without_shadow_32: -8036803184143953687
+      Rooster_animation_without_shadow_33: -6205649333734296064
+      Rooster_animation_without_shadow_34: 3547619307202110280
+      Rooster_animation_without_shadow_35: -3851408919021085729
+      Rooster_animation_without_shadow_36: -7103308382935034210
+      Rooster_animation_without_shadow_37: -2332379626556894463
+      Rooster_animation_without_shadow_38: -803746951547139990
+      Rooster_animation_without_shadow_39: -7077347050543517085
+      Rooster_animation_without_shadow_4: 1442976994021132242
+      Rooster_animation_without_shadow_40: 2311676948859437925
+      Rooster_animation_without_shadow_41: -5539452277239478058
+      Rooster_animation_without_shadow_5: 6348981681306743172
+      Rooster_animation_without_shadow_6: 6001673290513516517
+      Rooster_animation_without_shadow_7: 5142966472398418658
+      Rooster_animation_without_shadow_8: -73857084521542020
+      Rooster_animation_without_shadow_9: 2668110862196208093
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
