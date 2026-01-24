@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private const string RUN_FRONT = "IsRunFront";
     private const string RUN_BACK = "IsRunBack";
-    private const string RUN_SIDE = "isRunSide";
+    private const string RUN_SIDE = "IsRunSide";
 
     private enum AnimationState { Idle, Front, Back, Side }
 
