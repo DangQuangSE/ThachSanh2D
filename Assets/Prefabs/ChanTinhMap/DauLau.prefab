@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6676767194799566182}
   - component: {fileID: 2986988514990737825}
   - component: {fileID: 1271122822762580343}
+  - component: {fileID: 4832673021422426411}
   m_Layer: 0
   m_Name: DauLau
   m_TagString: Untagged
@@ -75,7 +76,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 155642667
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -103459714157544154, guid: 1bd56e2d8c961d14aa122e6cdea2993b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -110,3 +111,73 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!60 &4832673021422426411
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5355834054724572640}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3, y: 5}
+    newSize: {x: 3, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 1.125, y: 0.4375}
+      - {x: 1.3125, y: 1.375}
+      - {x: 1.125, y: 1.4375}
+      - {x: 1, y: 1.4375}
+      - {x: 0.5625, y: 2}
+      - {x: 0.25, y: 2.25}
+      - {x: -0.3125, y: 2.25}
+      - {x: -0.6875, y: 2}
+      - {x: -1, y: 1.5}
+      - {x: -1.3125, y: 1.4375}
+      - {x: -1.3125, y: 1.1875}
+      - {x: -1.1875, y: 0.9375}
+      - {x: -1.125, y: 0}
+      - {x: -1.3125, y: -0.5625}
+      - {x: -1.3125, y: -0.9375}
+      - {x: -1, y: -2.1875}
+      - {x: 0.1875, y: -2.25}
+      - {x: 0.8125, y: -2.4375}
+      - {x: 0.875, y: -2.4375}
+      - {x: 1.0625, y: -2.3125}
+      - {x: 1.3125, y: -1.4375}
+      - {x: 1.3125, y: -0.875}
+      - {x: 1.0625, y: 0}
+  m_UseDelaunayMesh: 0
