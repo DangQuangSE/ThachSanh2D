@@ -7,6 +7,8 @@ TagManager:
   - NPC
   - Animals
   - Piglet
+  - Sheep
+  - Rooster
   layers:
   - Default
   - TransparentFX
@@ -46,6 +48,12 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 4196495261
+    locked: 0
+  - name: Water
+    uniqueID: 3432871865
+    locked: 0
+  - name: BunDat
+    uniqueID: 78762205
     locked: 0
   - name: Ground_layer_2
     uniqueID: 1183238731
